@@ -1,34 +1,44 @@
 {
   "tests": [
     {
-      "name": "Test 1 - Hello World",
-      "setup": "g++ -o HelloWorld HelloWorld.cpp",
-      "run": "./HelloWorld",
+      "name": "Test 1 - operaciones",
+      "setup": "g++ -o operaciones operaciones.cpp",
+      "run": "./operaciones",
+      "input": "10\n20\nS",
+      "output": "30",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 25
+    },
+    {
+      "name": "Test 2 - suma pares y promedio",
+      "setup": "g++ -o sumaParesPromedio sumaParesPromedio.cpp",
+      "run": "./sumaParesPromedio",
       "input": "",
-      "output": "Hello World!",
+      "output": "falta",
       "comparison": "included",
       "timeout": 2,
-      "points": 10
+      "points": 25
     },
     {
-      "name": "Test 2 - Your name",
-      "setup": "g++ -o YourName YourName.cpp",
-      "run": "./YourName",
-      "input": "abcdef",
-      "output": "Your name is abcdef",
+      "name": "Test 3 - tabla",
+      "setup": "g++ -o tablaCelsiusFarenheit  tablaCelsiusFarenheit.cpp",
+      "run": "./tablaCelsiusFarenheit",
+      "input": "30\n10\n1",
+      "output": "falta",
       "comparison": "included",
       "timeout": 2,
-      "points": 10
+      "points": 25
     },
     {
-      "name": "Test 3 - Sum",
-      "setup": "g++ -o Sum Sum.cpp",
-      "run": "./Sum",
-      "input": "2\n5",
-      "output": "7",
+      "name": "Test 4 - serie",
+      "setup": "g++ -o serie  serie.cpp",
+      "run": "./serie",
+      "input": "1\n3\n25",
+      "output": "falta",
       "comparison": "included",
       "timeout": 2,
-      "points": 10
+      "points": 25
     }
   ]
 }
