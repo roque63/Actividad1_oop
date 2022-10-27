@@ -1,0 +1,37 @@
+//
+//  main.cpp
+//  Prueba
+//
+//  Created by Ma. Guadalupe Roque Díaz de León on 26/10/22.
+//
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+// Función que sume todos los números enteros pares entre el 0 y el 100.
+void sumaPares( ){
+ //1.  Declararación de variables
+   
+
+  // retorna la suma de todos los pares
+    
+}
+
+
+// Función que calcula el promedio todos los números enteros pares entre el 0 y el 100.
+void promedioPares( ){
+  // 1.  Declararación de variables
+   
+
+  // retorna el promedio
+    
+}
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    
+    operaNumeros( )
+    
+    return 0;
+}
