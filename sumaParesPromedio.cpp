@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  sumaParesPromedio.cpp
 //  Prueba
 //
 //  Created by Ma. Guadalupe Roque Díaz de León on 26/10/22.
