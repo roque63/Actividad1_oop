@@ -8,7 +8,7 @@
       "output": "30",
       "comparison": "included",
       "timeout": 2,
-      "points": 5
+      "points": 7
     },
     {
       "name": "Test 2 - operaciones",
@@ -18,7 +18,7 @@
       "output": "opcion incorrecta\n",
       "comparison": "included",
       "timeout": 2,
-      "points": 5
+      "points": 6
     },
      {
       "name": "Test 3 - operaciones",
@@ -28,7 +28,7 @@
       "output": "-10",
       "comparison": "included",
       "timeout": 2,
-      "points": 5
+      "points": 6
     },
      {
       "name": "Test 4 - operaciones",
@@ -38,7 +38,7 @@
       "output": "200",
       "comparison": "included",
       "timeout": 2,
-      "points": 5
+      "points": 6
     },
     
     {
@@ -83,3 +83,4 @@
     }
   ]
 }
+
