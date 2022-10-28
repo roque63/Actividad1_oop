@@ -1,6 +1,5 @@
 //
-//  main.cpp
-//  Prueba
+//  operaciones.cpp
 //
 //  Created by Ma. Guadalupe Roque Díaz de León on 26/10/22.
 //
