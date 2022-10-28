@@ -1,4 +1,4 @@
-# C++ Exercises
+# C++ Ejercicios
 
 <img alt="points bar" align="right" height="36" src="../../blob/status/.github/activity-icons/points-bar.svg" />
 
@@ -6,7 +6,7 @@ In this exercise, learners/lecturers will write simple C++ programs that accept 
 
 ## Ejercicio 1
 
-1. Usa `operaciones.cpp`, crear un programa que calcule y muestre suma, resta o multiplicación de 2 valores enteros.
+1. Usa `operaciones.cpp`, para diseñar un programa que calcule y muestre suma, resta o multiplicación de 2 valores enteros.
 
 2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
@@ -28,7 +28,7 @@ You should score 25 marks if the test passes.
 
 2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 25 marks if the test passes.
 
 ## Ejercicio 4
 
