@@ -35,10 +35,21 @@
       "setup": "g++ -o serie  serie.cpp",
       "run": "./serie",
       "input": "1\n3\n25",
-      "output": "falta",
+      "output": "925",
       "comparison": "included",
       "timeout": 2,
-      "points": 25
+      "points": 15
+    },
+    {
+      "name": "Test 4 - serie",
+      "setup": "g++ -o serie  serie.cpp",
+      "run": "./serie",
+      "input": "1\n3\n3",
+      "output": "12",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
     }
+
   ]
 }
