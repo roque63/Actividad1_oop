@@ -4,30 +4,37 @@
 
 In this exercise, learners/lecturers will write simple C++ programs that accept user input and then output responses to the command line. Learners will then test their programs by pushing them to their GitHub repo and checking the output from automated tests.
 
-## Exercise 1
+## Ejercicio 1
 
-1. Using the `HelloWorld.cpp` file, create a program that outputs "Hello World!".
+1. Usa `operaciones.cpp`, crear un programa que calcule y muestre suma, resta o multiplicación de 2 valores enteros.
 
-1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
+2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. 
+You should score 25 marks if the test passes.
 
-## Exercise 2
+## Ejercicio 2
 
-1. Using the `YourName.cpp` file, create a program that asks the user for their name.
+1. Usa `sumaParesPromedio.cpp`, para diseñar un programa que calcule y muestre la suma y promedio del 1..100.  
 
-2. The program should then output the text `"Your name is "` followed by the user's name.
+2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
+3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. 
+You should score 25 marks if the test passes.
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+## Ejercicio 3
 
-## Exercise 3
+1. Usa `tablaCelsiusFarenheit.cpp`, para diseñar un programa que calcule y muestre una tabla de grados CELSIUS FARENHEIT.
 
-1. Using the `Sum.cpp` file, create a program that asks the user to enter 2 integers.
+2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
 
-2. The program should then output the sum of the 2 numbers.
+3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
 
-1. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
+## Ejercicio 4
 
-1. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully. You should score 10 marks if the test passes.
+1. Usa `serie.cpp`, para diseñar un programa que calcule y muestre el resultado de una serie.
+
+2. Push your changes back to your assignment GitHub repo. Remember to try to make your commits atomic and your commit messages descriptive.
+
+3. Wait a minute for the tests to run. Refresh the repo page to see if you have completed the exercise successfully.
+You should score 25 marks if the test passes.
