@@ -27,7 +27,7 @@ Caso de prueba1:
 Datos de entrada:
 40
 5
-20
+5
 
 Datos de salida:
 CELSIUS FARENHEIT
